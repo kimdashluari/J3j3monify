@@ -12,3 +12,5 @@ Online Repository for the project "J3j3monify"
 }(jQuery));
 </code></pre>
 
+3. For now it only suppors the words : "Hello","po","ako","si".
+
