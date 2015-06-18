@@ -8,7 +8,7 @@ Converts tagalog words to "Jejemon" format.
 
 <pre lang="javascript"><code>
 (function($){
-        $('.jejemon').j3j3m0nify();
+  $('.jejemon').j3j3m0nify();
 }(jQuery));
 </code></pre>
 
