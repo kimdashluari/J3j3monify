@@ -1,5 +1,5 @@
 # J3j3monify
-Online Repository for the project "J3j3monify"
+Converts tagalog words to "Jejemon" format.
 
 #How to
 
